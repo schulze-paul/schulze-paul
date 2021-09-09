@@ -8,4 +8,4 @@ masters student of Applied and Engineering Physics at [TUM](https://www.tum.de/e
 
 have worked at [Zeiss](https://www.zeiss.com/corporate/int/home.html) and [BIAS](https://www.bias.de/en-gb)  
 
-I have a Bachelors Degree in Physics from [University of Bremen](https://www.uni-bremen.de/)
+I have a Bachelors Degree in Physics from [University of Bremen](https://www.uni-bremen.de/en/)
