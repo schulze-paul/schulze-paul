@@ -1,23 +1,11 @@
-## Paul Schulze
+[me](https://schulze-paul.github.io) . [email](mailto:paul.schulze@outlook.de) . [linkedin](https://www.linkedin.com/in/paul-schulze)
 
-I am a data scientist working with Python, MATLAB, JavaScript and React. 
+data scientist working with Python, Java, MATLAB, JavaScript and React
 
-I currently work at [BIBA](https://www.biba.uni-bremen.de/en.html) and [Enercon](https://www.enercon.de/en/home/).  
-I am also a student of Applied and Engineering Physics at [TUM](https://www.tum.de/en/) in Munich.
+currently working at [Enercon](https://www.enercon.de/en/home/) and [BIBA](https://www.biba.uni-bremen.de/en.html) in Simulation.
 
+masters student of Applied and Engineering Physics at [TUM](https://www.tum.de/en/) in Munich with a focus on Deep Learning, Computational Physics and Data Mining
 
+have worked at [Zeiss](https://www.zeiss.com/corporate/int/home.html) and [BIAS](https://www.bias.de/en-gb)  
 
-<!--
-**schulze-paul/schulze-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a Bachelors Degree in Physics from [University of Bremen](https://www.uni-bremen.de/)
