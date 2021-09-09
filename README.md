@@ -1,6 +1,9 @@
-### Hi there 👋
+## Paul Schulze
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=schulze-paul)](https://github.com/anuraghazra/github-readme-stats)
+I am a data scientist working with Python, MATLAB, JavaScript and React. 
+
+I currently work at [BIBA](https://www.biba.uni-bremen.de/en.html) and [Enercon](https://www.enercon.de/en/home/).  
+I am also a student of Applied and Engineering Physics at [TUM](https://www.tum.de/en/) in Munich.
 
 
 
