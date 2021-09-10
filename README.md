@@ -2,7 +2,7 @@
 
 #### R&D Engineer and Data Scientist
 
-Over 3 years of work experience in Simulation modelling in
+3+ years of work experience in Simulation modelling in
  - MATLAB and Simulink
  - Python
  - Java
