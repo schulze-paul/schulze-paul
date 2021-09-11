@@ -18,11 +18,14 @@ have worked at [Zeiss](https://www.zeiss.com/corporate/int/home.html) and [BIAS]
 
 I have a Bachelors Degree in Physics from [University of Bremen](https://www.uni-bremen.de/en/)
 
+
+
 <!---  main points:  
 
 large datasets, analysis, with maths, statistics
+ 
 
+Machine learning
 take data, produce results, interpret that data
-
 
 >
