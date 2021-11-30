@@ -4,12 +4,21 @@
 
 #### R&D Engineer and Data Scientist
 
-3+ years of work experience with Simulation Modelling and Data in
- -  <img src="images/icons/python/python-original.svg"></i> **Python**
- - **MATLAB** and **Simulink**
- - **Java**
- - **JavaScript**
- - **Anylogic**
+My Stack:
+
+<img src="images/icons/python/python-original.svg" height = 14px> **Python**
+
+<img src="images/icons/numpy/numpy-original.svg" height = 14px> **Numpy**
+
+<img src="images/icons/PyTorch_logo_icon.svg" height=14px padding=2px>  **PyTorch**
+
+<img src="images/icons/matlab/matlab-original.svg" height=14px padding=2px>  **Matlab**
+
+<img src="images/icons/java/java-original.svg" height=14px padding=2px>  **Java**
+
+<img src="images/icons/javascript/javascript-original.svg" height=14px padding=2px>  **JavaScript**
+
+<img src="images/icons/anylogic-icon.png" height=14px padding=2px>  **AnyLogic**
 
 
 Currently working at [Enercon](https://www.enercon.de/en/home/) and [BIBA](https://www.biba.uni-bremen.de/en.html).
