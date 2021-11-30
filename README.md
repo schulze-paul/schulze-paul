@@ -1,6 +1,6 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
 
-[me](https://schulze-paul.github.io) . [email](mailto:paul.schulze@outlook.de) . [linkedin](https://www.linkedin.com/in/paul-schulze)
+[me](https://paul-schulze.webflow.io) . [email](mailto:paul.schulze@outlook.de) . [linkedin](https://www.linkedin.com/in/paul-schulze)
 
 #### R&D Engineer and Data Scientist
 
