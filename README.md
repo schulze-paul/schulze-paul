@@ -1,9 +1,11 @@
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
+
 [me](https://schulze-paul.github.io) . [email](mailto:paul.schulze@outlook.de) . [linkedin](https://www.linkedin.com/in/paul-schulze)
 
 #### R&D Engineer and Data Scientist
 
 3+ years of work experience with Simulation Modelling and Data in
- - **Python**
+ -  <i class="devicon-python-plain"></i> **Python**
  - **MATLAB** and **Simulink**
  - **Java**
  - **JavaScript**
