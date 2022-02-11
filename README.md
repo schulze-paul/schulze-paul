@@ -1,5 +1,5 @@
 
-[me](https://paul-schulze.webflow.io) . [email](mailto:paul.schulze@outlook.de) . [linkedin](https://www.linkedin.com/in/paul-schulze)
+[WEBSITE](https://paul-schulze.webflow.io) . [EMAIL](mailto:paul.schulze@outlook.de) . [LINKEDIN](https://www.linkedin.com/in/paul-schulze)
 
 #### R&D Engineer and Data Scientist
 
