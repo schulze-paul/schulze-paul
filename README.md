@@ -31,9 +31,9 @@ Technologies:
 
 </b>
 
-Currently working at [Enercon](https://www.enercon.de/en/home/) and [BIBA](https://www.biba.uni-bremen.de/en.html).
+Currently working on my masters thesis at the [Gerland Group - Physics of Complex Biosystems](https://www.bio.nat.tum.de/qbio/home/) and as student researcher at [BIBA](https://www.biba.uni-bremen.de/en.html).
 Masters student of Applied and Engineering Physics at [TUM](https://www.tum.de/en/) in Munich with a focus on **Deep Learning**, **Medical Physics**, **Computational Physics** and **Data Mining**.
-Worked at [Zeiss](https://www.zeiss.com/corporate/int/home.html) and [BIAS](https://www.bias.de/en-gb).
+Worked at [Zeiss](https://www.zeiss.com/corporate/int/home.html), [Enercon](https://www.enercon.de/en/home/) and [BIAS](https://www.bias.de/en-gb).
 I have a Bachelors Degree in Physics from [University of Bremen](https://www.uni-bremen.de/en/).
 
 
